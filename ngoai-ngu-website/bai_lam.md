@@ -2,7 +2,7 @@
 
 - **Mã đề:** 13
 - **Họ tên:hà gia bách** 
-- **Lớp:** 
+- **Lớp:https://github.com/HCM-K26-CNTT2-IT108/HCM_KS26_CNTT02_IT108_Hackathon.git** 
 - **Link repository:** 
 - **Hệ điều hành (Windows/macOS):** 
 
