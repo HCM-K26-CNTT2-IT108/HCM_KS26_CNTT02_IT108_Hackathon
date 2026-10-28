@@ -1,10 +1,10 @@
 # BÀI LÀM – HACKATHON 01
 
 - **Mã đề:** 13
-- **Họ tên:hà gia bách** 
-- **Lớp:https://github.com/HCM-K26-CNTT2-IT108/HCM_KS26_CNTT02_IT108_Hackathon.git** 
-- **Link repository:** 
-- **Hệ điều hành (Windows/macOS):** 
+- **Họ tên:** HÀ GIA BÁCH
+- **Lớp:** CNTT2
+- **Link repository** :https://github.com/HCM-K26-CNTT2-IT108/HCM_KS26_CNTT02_IT108_Hackathon.git
+- **Hệ điều hành (Windows/macOS):** WINDOW
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
 
