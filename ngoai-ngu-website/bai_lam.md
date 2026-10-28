@@ -11,14 +11,21 @@
 ### Các lệnh đã chạy
 
 ```shell
-# Ghi lần lượt các lệnh đã chạy, mỗi lệnh một dòng
+ pwd
+  ls -force
+ move-item  .\Thoi_Khoa_Bieu.txt .\docs\
+ move-item .\Logo_Trung_Tam_Ngoai_Ngu.PNG .\media\
+ rm -r .\temp_213.tmp
+  cd .\logs\
+  ls
+  cd ..
 
 ```
 
 ### Kết quả liệt kê toàn bộ dự án (Windows: Get-ChildItem -Recurse -Force; macOS: ls -aR)
 
 ```text
-(Dán kết quả vào đây – xoá dòng này)
+
 
 ```
 
