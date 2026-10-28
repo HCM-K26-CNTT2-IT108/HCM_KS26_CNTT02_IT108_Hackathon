@@ -161,14 +161,16 @@ PS D:\BAI_KIEM_TRA\starter-kit\ngoai-ngu-website>
 ### Lệnh đã chạy
 
 ```shell
-# Ghi lệnh vào đây (xoá dòng này)
+ni daily_report.txt ; get-content .\Course.log | select-string "ERROR" > .\daily_report.txt
 
 ```
 
 ### 2 dòng lỗi đầu tiên trong daily_report.txt
 
 ```text
-(Dán kết quả vào đây – xoá dòng này)
+2 0 2 6 - 0 3 - 2 8   0 8 : 2 4 : 2 8   [ E R R O R ]   H e t   t h o i   g i a n   c h o   ( t i m e o u t ) 
+ 
+ 2 0 2 6 - 0 3 - 2 8   0 8 : 3 0 : 2 8   [ E R R O R ]   H e t   t h o i   g i a n   c h o   ( t i m e o u t ) 
 
 ```
 
